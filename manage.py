@@ -2,6 +2,7 @@
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
+# https: // buildabetterworld.tistory.com/84
 
 
 def main():
